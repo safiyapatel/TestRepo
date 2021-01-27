@@ -1,2 +1,0 @@
-Remote repository file
-first file created into TestRepo repository
